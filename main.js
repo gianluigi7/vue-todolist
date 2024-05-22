@@ -5,7 +5,7 @@ const { createApp } = Vue;
 createApp({
     data() {
         return {
-            text: 'todolist',
+            text: 'Todolist',
         }
     }
 }).mount('#app');

@@ -1,0 +1,20 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+.container {
+   max-width: 996px;
+   margin: 0 auto;
+}
+header {
+    padding: 30px;
+    background-color: ivory;
+    color: rgb(105, 28, 28);
+}
+
+.input-element {
+    padding: 10px;
+    margin-top: 30px;
+}
